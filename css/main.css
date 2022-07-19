@@ -213,10 +213,10 @@ hr {
 .header-logo {
   font-style: normal;
   font-family: var(--secondary-font), "sans-serif";
+  color: var(--accent-color);
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19;
-  color: var(--accent-color);
+  line-height: 1.16;
 }
 
 .logo-studio {
@@ -234,11 +234,11 @@ hr {
 .header-logof {
   font-style: normal;
   font-family: var(--secondary-font), "sans-serif";
+  color: var(--accent-color);
+  margin-bottom: 20px;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  color: var(--accent-color);
-  margin-bottom: 20px;
 }
 
 .logo-footer {
